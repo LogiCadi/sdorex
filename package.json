@@ -1,0 +1,26 @@
+{
+  "name": "sdorex",
+  "version": "1.0.3",
+  "description": "probably the most minimalist state management",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react",
+    "state",
+    "hooks",
+    "sdorex",
+    "state",
+    "store"
+  ],
+  "files": [
+    "dist"
+  ],
+  "author": "mm996",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.40"
+  }
+}
