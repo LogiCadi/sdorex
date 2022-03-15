@@ -1,6 +1,6 @@
 {
   "name": "sdorex",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "probably the most minimalist state management",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,5 +16,8 @@
     "dist"
   ],
   "author": "mm996",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
 }
