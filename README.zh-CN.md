@@ -3,8 +3,8 @@
 ### 或许是史上最简约的 react 状态管理
 
 - 仅 1 个 API
-- 响应式，没有不必要的渲染
-- 简约的，符合直觉的取值和赋值
+- 响应式，没有多余的 re-render
+- 简约、符合直觉的取值和赋值
 
 ## 安装
 
@@ -15,8 +15,6 @@ yarn add sdorex
 ```
 
 ## 使用
-
-基本使用
 
 ```tsx
 import sdorex from "sdorex";
@@ -33,6 +31,8 @@ export default function App() {
   );
 }
 ```
+
+[![DEMO](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47fb8002084841c187293270adef79a5~tplv-k3u1fbpfcp-zoom-1.image)](https://codesandbox.io/s/sdorex-demo-ruz0zt?file=/src/App.tsx)
 
 定义函数
 
@@ -54,7 +54,7 @@ export default function App() {
 
 响应式的
 
-`count` 改变了 但是 `User` 不会重新渲染
+改变 `count`，只会重新渲染用到了 `count `的组件
 
 ```tsx
 const store = sdorex({

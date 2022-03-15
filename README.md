@@ -37,6 +37,8 @@ export default function App() {
 }
 ```
 
+[![DEMO](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sdorex-demo-ruz0zt?file=/src/App.tsx)
+
 define function
 
 ```tsx
