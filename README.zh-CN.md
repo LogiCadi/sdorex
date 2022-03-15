@@ -6,6 +6,14 @@
 - 响应式，没有不必要的渲染
 - 简约的，符合直觉的取值和赋值
 
+## 安装
+
+```sh
+npm i sdorex
+# OR
+yarn add sdorex
+```
+
 ## 使用
 
 基本使用
@@ -110,4 +118,4 @@ export default function App() {
 }
 ```
 
-### very easy, try it!
+### very simple, try it!

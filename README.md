@@ -1,10 +1,21 @@
 # sdorex
 
+[![npm](https://img.shields.io/npm/v/sdorex?style=flat-square)](https://www.npmjs.com/package/sdorex)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/sdorex?style=flat-square)](https://bundlephobia.com/result?p=sdorex)
+
 ### probably the most minimalist state management in react
 
 - only 1 API
 - reactive, no unnecessary re-render
 - easy, intuit GET and SET state
+
+## Install
+
+```sh
+npm i sdorex
+# OR
+yarn add sdorex
+```
 
 ## Usage
 
@@ -110,4 +121,4 @@ export default function App() {
 }
 ```
 
-### very easy, try it!
+### very simple, try it!
