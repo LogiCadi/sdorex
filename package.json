@@ -1,6 +1,6 @@
 {
   "name": "sdorex",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "probably the most minimalist state management",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

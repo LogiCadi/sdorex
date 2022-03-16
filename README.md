@@ -1,7 +1,7 @@
 # sdorex
 
-[![npm](https://img.shields.io/npm/v/sdorex?style=flat-square)](https://www.npmjs.com/package/sdorex)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/sdorex?style=flat-square)](https://bundlephobia.com/result?p=sdorex)
+[![npm](https://img.shields.io/npm/v/sdorex)](https://www.npmjs.com/package/sdorex)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/sdorex@latest)](https://bundlephobia.com/package/sdorex@latest)
 
 ### probably the most minimalist state management in react
 

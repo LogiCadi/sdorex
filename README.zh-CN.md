@@ -32,7 +32,9 @@ export default function App() {
 }
 ```
 
-[![DEMO](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47fb8002084841c187293270adef79a5~tplv-k3u1fbpfcp-zoom-1.image)](https://codesandbox.io/s/sdorex-demo-ruz0zt?file=/src/App.tsx)
+在线编辑
+
+[![DEMO](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sdorex-demo-ruz0zt?file=/src/App.tsx)
 
 定义函数
 
